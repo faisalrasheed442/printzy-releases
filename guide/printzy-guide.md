@@ -241,7 +241,8 @@ Printzy saves `.printzy` files and PDFs. It can't save `.pub` files.
 
 ![The template gallery, numbered: the categories, the templates, Create](images/templates.png)
 
-1. On Home, click **Start from a template** (or **See all templates**) and pick a category.
+1. On Home, click **Start from a template** (or **See all templates**) and pick a category, or type what you
+   do in the search box: "plumber", "salon", "school", "restaurant" or "CV" finds the designs made for it.
 2. Click a template to see it on the right with its size and number of pages. Templates marked **Uses mail
    merge** have sample names you can replace with your own list. **Also in Letter** (or A4) switches to the other
    paper size.
